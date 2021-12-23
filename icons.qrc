@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>rsc/backward-solid.svg</file>
+        <file>rsc/bars-solid.svg</file>
+        <file>rsc/check-double-solid.svg</file>
+        <file>rsc/check-square-solid.svg</file>
+        <file>rsc/check-solid.svg</file>
+        <file>rsc/chevron-down-solid.svg</file>
+        <file>rsc/chevron-left-solid.svg</file>
+        <file>rsc/chevron-right-solid.svg</file>
+        <file>rsc/chevron-up-solid.svg</file>
+        <file>rsc/cog-solid.svg</file>
+        <file>rsc/forward-solid.svg</file>
+        <file>rsc/keyboard-solid.svg</file>
+        <file>rsc/netflix-icon.svg</file>
+        <file>rsc/palette-solid.svg</file>
+        <file>rsc/play-solid.svg</file>
+        <file>rsc/power-off-solid.svg</file>
+        <file>rsc/question-solid.svg</file>
+        <file>rsc/radar-solid.svg</file>
+        <file>rsc/save-solid.svg</file>
+        <file>rsc/times-solid.svg</file>
+        <file>rsc/undo-alt-solid.svg</file>
+        <file>rsc/volume-down-solid.svg</file>
+        <file>rsc/volume-mute-solid.svg</file>
+        <file>rsc/volume-up-solid.svg</file>
+        <file>rsc/wifi-solid.svg</file>
+        <file>rsc/tv-solid.svg</file>
+        <file>rsc/check-circle-solid.svg</file>
+    </qresource>
+</RCC>
