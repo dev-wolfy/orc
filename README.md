@@ -29,9 +29,11 @@ dpkg -i orc_1.0-0_amd64.deb
 ### Les paramètres :
 
 Il est possible de renseigner l'IP et le port du décodeur orange :
+
 ![img/network-settings.png](img/network-settings.png)
 
 Je suis pas bon en graphisme et en couleurs, donc à vous de colorier votre télécommande :
+
 ![img/color-settings.png](img/color-settings.png)
 
 Un point important, toutes les actions de la télécommande ont des raccourcis clavier personnalisable.
